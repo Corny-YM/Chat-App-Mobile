@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "700334925916",
+    "project_id": "chat-app-mobile-6141f",
+    "storage_bucket": "chat-app-mobile-6141f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700334925916:android:54e8cafc3dbee50711de99",
+        "android_client_info": {
+          "package_name": "com.example.cornychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700334925916-bebj8iut3914mo58pofsj8uhmmgp8l05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0crpQJT3hou-aa5BLu4aq94oks_5CIc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700334925916-bebj8iut3914mo58pofsj8uhmmgp8l05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
